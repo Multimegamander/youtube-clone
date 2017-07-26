@@ -1,0 +1,17 @@
+.vid-content {
+  /*height: 100vh;*/
+  background-color: white;
+  margin: 10px 10px 10px 10px;
+}
+
+.vid-content h3{
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-left: 10px;
+  margin: 10px;
+}
+
+.vid-content:first-child {
+  margin-top: 50px;
+}
